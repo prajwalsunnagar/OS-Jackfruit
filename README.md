@@ -2,7 +2,7 @@
 
 ## Team
 - Prajwal Sunnagar-PES1UG24CS482
-- skanda ML        -PES1UG2CS457
+- Skanda ML        -PES1UG2CS457
 
 ## Status
 All required implementation phases are complete:
